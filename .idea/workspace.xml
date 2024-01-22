@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f13f179a-5173-4f4f-98bc-f19871d02774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/GS comp.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/black goose.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/comp 3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/follow page.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/follow us.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/html icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pascal.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/follow us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/follow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +74,7 @@
       <workItem from="1705659181029" duration="2534000" />
       <workItem from="1705910626195" duration="1902000" />
       <workItem from="1705912714251" duration="8000" />
-      <workItem from="1705912790633" duration="676000" />
+      <workItem from="1705912790633" duration="3708000" />
     </task>
     <servers />
   </component>
